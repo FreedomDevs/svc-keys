@@ -33,6 +33,12 @@ cd svc-keys
 cargo run
 ```
 
+### 3. Сборка в Docker
+
+```bash
+docker build . -t svc-keys:latest
+```
+
 ---
 
 ## Эндпоинты
