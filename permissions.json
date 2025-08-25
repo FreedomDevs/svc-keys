@@ -1,0 +1,6 @@
+{
+  "bans": ["users"],
+  "users": ["users"],
+  "auth": ["auth", "users"]
+}
+
